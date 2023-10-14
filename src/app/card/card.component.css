@@ -1,0 +1,25 @@
+.custom-style2 .btn {
+    background-color: dodgerblue;
+    color: white;
+}
+.custom-style3 .btn {
+    background-color: dodgerblue;
+    color: white;
+}
+
+.custom-style2 .btn:hover {
+    background-color: rgb(6, 88, 170);
+    color: white;
+}
+.custom-style3 .btn:hover {
+    background-color: rgb(6, 88, 170);
+    color: white;
+}
+
+.custom-style3 .card {
+    border:1px solid dodgerblue;
+}
+
+.custom-style3 .card-header{
+    background-color: dodgerblue;
+}
